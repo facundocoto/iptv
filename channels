@@ -59,6 +59,21 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584813635/ei/4
 #EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica (Opcion 2)
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w240300788.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="Sport",GOLTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+
 
 ########## Premium ##########
 
@@ -386,15 +401,3 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b18
 
 #EXTINF:0 group-title="Peliculas",La forma del agua
 https://storage.googleapis.com/new-project-189619.appspot.com/shapagua.mp4
-
-########## Uruguay ##########
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w240300788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="",Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="Sport",GOLTV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
