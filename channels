@@ -58,5 +58,468 @@
 #EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Telam_logo.png" ,Télam 4 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
 
-########## A prueba ##########
 
+
+
+########## A prueba ##########
+#EXTINF:0 group-title="A prueba",DEPORTES:SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:0 group-title="A prueba",09 AMERICA TV HD www.achoAPPS.com
+https://stream01-xrolaglsgc.stackpathdns.com/video/BJQRNMF6b.m3u8
+
+#EXTINF:0 group-title="A prueba",GOLDEN PLUS www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(04)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",Nick HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",Nick HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(05)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",Channel(NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",ESPN www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0,ESPN HD www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:0 group-title="A prueba",ESPN 2 www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:0 group-title="A prueba" ,[COLOR WHITE] [/COLOR] ESPN2 HD www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+
+#EXTINF:0 group-title="A prueba" ,Deportes ESPN 3 www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://media.entutele.com/channels/big/canal-5-hd.gif"group-title="A prueba",Canal 5 HD
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="A prueba",FOX SPORTS
+http://50.97.142.181:8080/foxsportt.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="A prueba",FOX SPORTS (op2)
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="A prueba",FOX SPORTS 2
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="A prueba",FOX SPORTS 2 (op2)
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="A prueba",FOXSPORTS 3
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-sports-3.gif", Fox Sports 3 (op2)
+
+
+#EXTINF:0 channelId="2489" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="A prueba", Canal ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/cumbianinja/images/e/e9/FOX_Tv_Logo_Musica_Album_Canal_Recortado_Svg.png/revision/latest?cb=20140816160641&path-prefix=es"group-title="A prueba", Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/cumbianinja/images/e/e9/FOX_Tv_Logo_Musica_Album_Canal_Recortado_Svg.png/revision/latest?cb=20140816160641&path-prefix=es"group-title="A prueba", Fox (o2)
+
+
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png"group-title="A prueba",Nickelodeon (Nick)
+http://n-3-24.dcs.redcdn.pl/hls/o2/redefine/nlive/nickelodeon_polska_1/10249/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png"group-title="A prueba",Nickelodeon (op2)
+
+
+
+#EXTINF:0 group-title="A prueba", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png"group-title="A prueba",Nick 2
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2004-1024x768.png"group-title="A prueba",Cartoon Network
+http://n-3-21.dcs.redcdn.pl/hls/o2/redefine/nlive/CN_HD_1/11395/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+#EXTINF:0 group-title="A prueba", tvg-logo="https://images.seeklogo.net/2014/07/new-disney-channel-logo.png"group-title="A prueba",Disney Channel
+http://n-3-1.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_channel_hd_1/10903/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif"group-title="A prueba", HBO
+http://187.49.86.238:10000/bysid/69?ListaVIP
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif"group-title="A prueba", HBO 2
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif"group-title="A prueba", HBO Family
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif"group-title="A prueba", HBO Plus
+
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif"group-title="A prueba", HBO Plus OP2
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-plus-e.gif"group-title="A prueba", HBO Plus Este
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif"group-title="A prueba", HBO Signature
+
+
+
+#EXTINF:0 group-title="A prueba", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif"group-title="A prueba" ,HBO (op2)
+
+
+#EXTINF:0 group-title="A prueba"  tvg-logo="   ",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,ESPN 2 (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_ESPN_2/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,ESPN 3 (Game Snake Land S. y L.)
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Fox Sports (Game Snake Land S. y L.)
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Fox Sports 2 (Game Snake Land S. y L.)
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Fox Sports 2 Argentina (Game Snake Land S. y L.)
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Fox Sports 3 (Game Snake Land S. y L.)
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,FX (Game Snake Land S. y L.)
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,TNT Series (Game Snake Land S. y L.)
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Universal Channel (Game Snake Land S. y L.)
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Studio Universal (Game Snake Land S. y L.)
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  ,Warner Channel (Game Snake Land S. y L.)
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba" ,Discovery H&H (Game Snake Land S. y L.)
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="A prueba" ,UNIMAS (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_UNIMAS_HD/index.m3u8
+#EXTINF:0 group-title="A prueba" ,BANDAMAX (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8
+#EXTINF:0 group-title="A prueba" ,CINELATINO (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8
+#EXTINF:0 group-title="A prueba" ,CINEMAX (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+#EXTINF:0 group-title="A prueba" ,Discovery KIDS (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:0 group-title="A prueba" ,LIFETIME (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
+#EXTINF:0 group-title="A prueba" ,SONY (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+#EXTINF:0 group-title="A prueba" ,AZ Click (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8
+#EXTINF:0 group-title="A prueba" ,Fox Series (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+#EXTINF:0 group-title="A prueba" ,ESPN (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:0 group-title="A prueba" ,Azteca13 (Game Snake Land S. y L. )
+http://209.126.116.177:2086/113azteca13/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Centraldelacomedia (Game Snake Land S. y L. )
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,E!Latino (Game Snake Land S. y L. )
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,FX (Game Snake Land S. y L. )
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Fox life (Game Snake Land S. y L. )
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Sony (Game Snake Land S. y L. )
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,SyFy (Game Snake Land S. y L. )
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,TBS (Game Snake Land S. y L. )
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,SerieTNT (Game Snake Land S. y L. )
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,WarnerChannel (Game Snake Land S. y L. )
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,CartoonNetwork (Game Snake Land S. y L. )
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Discoverykids (Game Snake Land S. y L. )
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Disney (Game Snake Land S. y L. )
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,DisneyJunior (Game Snake Land S. y L. )
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,DisneyXD (Game Snake Land S. y L. )
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Nickelodeon (Game Snake Land S. y L. )
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,NickJr (Game Snake Land S. y L. )
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Dyscovery Channel (Game Snake Land S. y L. )
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,DiscoveryH&H (Game Snake Land S. y L. )
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,History (Game Snake Land S. y L. )
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,NatGeo (Game Snake Land S. y L. )
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,AXN (Game Snake Land S. y L. )
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Estudio (Game Snake Land S. y L. )
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0 group-title="A prueba" ,Universal (Game Snake Land S. y L. )
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+
+#EXTINF:0 group-title="A prueba" ,History Channel-82
+http://live.tvplayerlatino.com:80/streaming/src1/wQqis
+#EXTINF:0 group-title="A prueba" ,Nat Geo-83
+http://live.tvplayerlatino.com:80/streaming/src1/BiEi0
+#EXTINF:0 group-title="A prueba" ,Nat Geo Wild-84
+http://live.tvplayerlatino.com:80/streaming/src1/i80zc
+#EXTINF:0 group-title="A prueba" ,Investigation Discovery-85
+http://live.tvplayerlatino.com:80/streaming/src1/QO6g7
+#EXTINF:0 group-title="A prueba" ,Cinecanal+-86
+http://live.tvplayerlatino.com:80/streaming/src1/XwyF3
+#EXTINF:0 group-title="A prueba" ,De Pelicula-87
+http://live.tvplayerlatino.com:80/streaming/src1/syIoC
+#EXTINF:0 group-title="A prueba" ,Space HD-88
+http://live.tvplayerlatino.com:80/streaming/src1/qQIPI
+#EXTINF:0 group-title="A prueba" ,Studio Universal-89
+http://live.tvplayerlatino.com:80/streaming/src1/CZ6O4
+#EXTINF:0 group-title="A prueba" ,TCM-90
+http://live.tvplayerlatino.com:80/streaming/src1/7x3AE
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/23.png",Azteca 7
+http://live.tvplayerlatino.com/streaming/src1/991jv?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/21.png",Canal 5
+http://live.tvplayerlatino.com/streaming/src1/74511?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/las-estrellas.png",Las Estrellas -2 Horas
+http://live.tvplayerlatino.com/streaming/src1/cest2?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="   ",Gala TV
+http://live.tvplayerlatino.com/streaming/src1/K1kPK?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/4.png",Cartoon Network
+http://live.tvplayerlatino.com/streaming/src1/owHw3
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png",Nick HD
+http://live.tvplayerlatino.com/streaming/src1/3hujI?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png",Nick JR
+http://live.tvplayerlatino.com/streaming/src1/DFX8y?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/7.png",Nick Toons
+http://live.tvplayerlatino.com/streaming/src1/mYLvZ?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/7.png",Nickelodeon
+http://live.tvplayerlatino.com/streaming/src1/Q7iup?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png",Disney Channel
+http://live.tvplayerlatino.com/streaming/src1/yr1Y7?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/9.png",Disney Junior
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png",Disney XD
+http://live.tvplayerlatino.com/streaming/src1/Ow853?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/1.png",Boomerang
+http://live.tvplayerlatino.com/streaming/src1/u3H8s?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/11.png",Tiin
+http://live.tvplayerlatino.com/streaming/src1/gm6eP?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/6.png",Tooncast
+http://live.tvplayerlatino.com/streaming/src1/BNgf7?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png",Sony HD
+http://live.tvplayerlatino.com/streaming/src1/wMbZG?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="   ",A&E HD
+http://live.tvplayerlatino.com/streaming/src1/a9C5z?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="   ",Animal Planet
+http://live.tvplayerlatino.com/streaming/src1/bEKOK?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="   ",AXN HD
+http://live.tvplayerlatino.com/streaming/src1/0Jip7?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png",Cinemax
+http://live.tvplayerlatino.com/streaming/src1/k8MBl?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png",Comedy Central HD
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/5.png",Distrito Comedia
+http://live.tvplayerlatino.com/streaming/src1/VGGNc?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/9.png",El Gourmet
+http://live.tvplayerlatino.com/streaming/src1/WrdYp?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png",Fox
+http://live.tvplayerlatino.com/streaming/src1/L0ISp?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif",TruTV
+http://live.tvplayerlatino.com/streaming/src1/5pBpi?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/14.png",TLC
+http://live.tvplayerlatino.com/streaming/src1/O9Age?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/28.png",Tlnovelas
+http://live.tvplayerlatino.com/streaming/src1/3iDkr?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png",Warner Channel HD
+http://live.tvplayerlatino.com/streaming/src1/SO0M3?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png",TNT Series
+http://live.tvplayerlatino.com/streaming/src1/9HmKY?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="   ",Fashion TV
+http://live.tvplayerlatino.com/streaming/src1/nHCx8v?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-1-hd.png",Fox 1 HD
+http://live.tvplayerlatino.com/streaming/src1/NCheB?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/20.png, Lifetime
+http://live.tvplayerlatino.com/streaming/src1/v4xin?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/56.png", VH1 Classic
+http://live.tvplayerlatino.com/streaming/src1/KW2YQ?58afba
+#EXTINF:0 group-title="A prueba"   tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/56.png",VH1 HD
+http://live.tvplayerlatino.com/streaming/src1/eriD9?58afba
+#EXTINF:0 group-title="A prueba"   tvg-logo="http://www.totalplay.com.mx/images/logos/canales/musica/10.png",MTV
+http://live.tvplayerlatino.com/streaming/src1/hzHHE?58afba
+#EXTINF:0 group-title="A prueba"   tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/49.png",MTV Hits
+http://live.tvplayerlatino.com/streaming/src1/Q0g4R?58afba
+#EXTINF:0 group-title="A prueba"   tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/49.png",MTV Live HD
+http://live.tvplayerlatino.com/streaming/src1/aEyNb?58afba
+#EXTINF:0 group-title="A prueba"   tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/54.png",Telehit
+http://live.tvplayerlatino.com/streaming/src1/LKqfP?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/1.png",Discovery Channel
+http://live.tvplayerlatino.com/streaming/src1/hdHdC?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/3.png",Discovery Civilization
+http://live.tvplayerlatino.com/streaming/src1/VSngF?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/2.png",Discovery H&H
+http://live.tvplayerlatino.com/streaming/src1/gEqGA?58afba
+#EXTINF:0 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/dicovery-kids.png",Discovery Kids
+http://live.tvplayerlatino.com/streaming/src1/Q99yx?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/9.png",Discovery SCI
+http://live.tvplayerlatino.com/streaming/src1/LMgwM?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/theater-discovery-hd.png",Discovery Theater HD
+http://live.tvplayerlatino.com/streaming/src1/BCSvX?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/6.png",Discovery Turbo
+http://live.tvplayerlatino.com/streaming/src1/uNab0?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/world-discovery-hd.png",Discovery World
+http://live.tvplayerlatino.com/streaming/src1/N6San?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/history.png",History Channel
+http://live.tvplayerlatino.com/streaming/src1/wQqis?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",Nat Geo
+http://live.tvplayerlatino.com/streaming/src1/BiEi0?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif",Nat Geo Wild
+http://live.tvplayerlatino.com/streaming/src1/i80zc?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/14.png",Investigation Discovery
+http://live.tvplayerlatino.com/streaming/src1/QO6g7?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/cine-canal.png",Cinecanal
+http://live.tvplayerlatino.com/streaming/src1/l7882?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/cine-canal.png",Cinecanal+
+http://live.tvplayerlatino.com/streaming/src1/XwyF3?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/41.png",De PelÃ­cula
+http://live.tvplayerlatino.com/streaming/src1/syIoC?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/5.png",TNT HD
+http://live.tvplayerlatino.com/streaming/src1/5shHX?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/4.png",Space
+http://live.tvplayerlatino.com/streaming/src1/ISt6j?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/4.png",Space HD
+http://live.tvplayerlatino.com/streaming/src1/qQIPI?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/13.png",Studio Universal
+http://live.tvplayerlatino.com/streaming/src1/CZ6O4?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/tcm.png",TCM
+http://live.tvplayerlatino.com/streaming/src1/7x3AE?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png",Universal
+http://live.tvplayerlatino.com/streaming/src1/V6Eqb?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png",Universal HD
+http://live.tvplayerlatino.com/streaming/src1/nfdUc?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/6.png",Golden Edge
+http://live.tvplayerlatino.com/streaming/src1/QfuWa?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/30.png",Golden HD
+http://live.tvplayerlatino.com/streaming/src1/PLMti?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-e.gif",Film Zone HD
+http://live.tvplayerlatino.com/streaming/src1/8VRfG?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png",Fox Action
+http://live.tvplayerlatino.com/streaming/src1/QBjs9?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-cinema.png",Fox Cinema
+http://live.tvplayerlatino.com/streaming/src1/rvTcm?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png",Fox Classics
+http://live.tvplayerlatino.com/streaming/src1/ulhmA?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png",Fox Life
+http://live.tvplayerlatino.com/streaming/src1/7eNpt?58afba
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://puu.sh/mbLOY/25fd3c0724.png" ,HBO
+http://live.tvplayerlatino.com/usuarios/src5/HBO/mexico/playlist.m3u8
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://puu.sh/pKMB6/6e941ffc46.png" ,HBO 2
+http://live.tvplayerlatino.com/usuarios/src5/HBO2/mexico/playlist.m3u8
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://puu.sh/mbLYD/9b9363b223.png" ,HBO Family
+http://live.tvplayerlatino.com/usuarios/src5/HBOFamily/mexico/playlist.m3u8
+#EXTINF:0 group-title="A prueba"  tvg-logo="http://puu.sh/mbLPA/58fceaae81.png" ,HBO Plus
+http://live.tvplayerlatino.com/usuarios/src5/HBOPlus/mexico/playlist.m3u8
+#EXTINF:0 group-title="A prueba" , HBO Family
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8?
+
+#EXTINF:0 group-title="A prueba" ,CPETV La Pampa Argentina (Game Snake Land S. y L.)
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_150_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,CPETV La Pampa Argentina (Game Snake Land S. y L.)
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_151_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,AZTECA NOTICIAS México (Game Snake Land S. y L.)
+http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_2_av-b.m3u8
+#EXTINF:0 group-title="A prueba" ,AZTECA TRECE México (Game Snake Land S. y L.)
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,TV PERU HD (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0 group-title="A prueba" ,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 group-title="A prueba" ,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 group-title="A prueba" ,TV PERu 7.3 (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 group-title="A prueba" ,CNN (Noticias Chile) (Game Snake Land S. y L.)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:0 group-title="A prueba" ,CNN (Noticias Chile) (Game Snake Land S. y L.)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:0 group-title="A prueba" ,MEGA (Chile) (Game Snake Land S. y L.)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_1_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,MEGA (Chile) (Game Snake Land S. y L.)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_2_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,MEGA (Chile) (Game Snake Land S. y L.)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_3_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,MEGA (Chile) (Game Snake Land S. y L.)
+http://edge-10-ak.mdstrm.com:80/i/mediastream01_hls@119683/index_4_av-p.m3u8
+#EXTINF:0 group-title="A prueba" ,CANAL CNC ESTRELLA TV (Quibdó Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+#EXTINF:0 group-title="A prueba" ,CANAL CNC (Pasto Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 group-title="A prueba" ,TELEENVIGADO (Envigado Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:0 group-title="A prueba" ,SON POPULAR (Música Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:0 group-title="A prueba" ,CANAL 2 TV (Cali Colombia) (Game Snake Land S. y L.)
+http://181.143.238.252/canal2/canal2cali/index.m3u8
+#EXTINF:0 group-title="A prueba" ,RCN HD (Bogotá Colombia) (Game Snake Land S. y L.)
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="FTLjroU.png" , Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="Mm8K6a0.png" , TyC Sports [HD]
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8#1
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="u6UOgvd.png" , -[COLOR red]Canales Argentinos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="wRGgKIo.png" , America TV [HD]
+http://cdn-zc-lsd-3.planisys.net:1935/TV9/smil:tv9live.smil/playlist.m3u8
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="wRGgKIo.png" , America TV [FHD] (Alt)
+http://ar.watcha.live/ch3/full.m3u8|User-agent=iPhone
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="699GsZX.png" , A24 [FHD]
+http://ar.watcha.live/ch2/full.m3u8|User-agent=iPhone
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="XQLIPxl.png" , Telefe [FHD]
+http://ar.watcha.live/ch6/full.m3u8|User-agent=iPhone
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="Mm8K6a0.png" , TyC Sports [HD]
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/master.m3u8
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="qzpwloD.png" , El Trece [HD]
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+
+#EXTINF:0 group-title="A prueba"  , tvg-logo="XEnY7aW.png" , TN [HD]
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+
+
+#EXTINF:0 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif"group-title="A prueba",HBO Family (op2)
