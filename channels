@@ -1,50 +1,34 @@
 ########## Noticias ##########
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="https://i.imgur.com/Jo7p7yZ.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", 
 Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", 
 Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", 
 Conexion Abierta
 http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="https://i.imgur.com/iLh4q2x.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", 
 Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="https://i.imgur.com/pRbp0eZ.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/pRbp0eZ.png", 
 La 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="https://i.imgur.com/VuvGm3s.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 
 13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 
-#EXTINF:0 
-group-title="Noticias" 
-tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png", 
 Multivisión
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 
-group-title="Noticias"
-tvg-logo="https://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png", 
+#EXTINF:0 group-title="Noticias" tvg-logo="https://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png", 
 Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
@@ -104,7 +88,7 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:0 
 group-title="Noticias" 
-tvg-logo="https://k61.kn3.net/B/0/D/8/5/1/036.png" group-title="Nacional", 
+tvg-logo="https://k61.kn3.net/B/0/D/8/5/1/036.png" group-title="Noticias", 
 Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
