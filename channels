@@ -60,3 +60,76 @@
 ########## Peliculas ##########
 
 #EXTINF:0  group-title="Peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/GKqoIn83X5V5AA4r4Vizi5ZVct9BfCYRWOFbG1SgATnfxHt7mplIajzpQREtWFBHD_ayAV0EiIoIJiaQHsuanl3v3dOiQvXs9Bk",  La forma del agua https://storage.googleapis.com/new-project-189619.appspot.com/shapagua.mp4
+
+
+########## A prueba ##########
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Disney_International_HD_logo.png/220px-Disney_International_HD_logo.png" tvg-country="IN" tvg-url="" group-title="Kids",Disney International HD
+http://stream-7b694ce7e.nmbs.top/m3u/Kids/10166da03f.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="" ,Télam 4 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="" ,09 AMERICA TV HD
+https://stream01-xrolaglsgc.stackpathdns.com/video/BJQRNMF6b.m3u8
+
+#EXTINF:-1group-title="A prueba" tvg-logo="" ,DEPORT TV OP03
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="" ,DEPOR TV OP05
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+
+#EXTINF:-1 group-title="A prueba", DEPORTES:ESPN
+http://bit.ly/2AoZTVs
+
+#EXTINF:-1 group-title="A prueba",ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+
+#EXTINF:-1 group-title="A prueba", ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="A prueba" ,Deportes ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
+#EXTINF:-1 group-title="A prueba" ,NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
+
+
+#EXTINF:-1 group-title="A prueba" ,PRIMA MAX
+http://74.208.44.158:5000/live/518/518.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://www.canalpluslatam.com/imagenesp/163-464-20170104050004.png" group-title="Latinos", CANALPlus
+http://streaminglivehd.com:1935/8098/8098/playlist.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="CULTURA", H2
+http://zonatv.us/chan/sd54fIs21ds654/h2.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E
+http://zonatv.us/chan/sd54fIs21ds654/aehd.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/CINE-canal.png" group-title="CINE", CINEcanal
+http://zonatv.us/chan/sd54fIs21ds654/cinecanal.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
+http://zonatv.us/chan/sd54fIs21ds654/fx.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png" group-title="CINE", Fox Classics
+http://zonatv.us/chan/sd54fIs21ds654/foxclass.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
+http://zonatv.us/chan/sd54fIs21ds654/maxup.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://www.cablefamilia.com/images/canales/peliculas/cinema_plus.png" group-title="CINE", CINEMA +
+http://zonatv.us/chan/sd54fIs21ds654/cinemaplus.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg" group-title="CINE", Golden PLUS
+http://zonatv.us/chan/sd54fIs21ds654/golden.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/CINElatinologo_616-150x120.png" group-title="CINE", CINE Latino
+http://zonatv.us/chan/sd54fIs21ds654/cinelatino.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11737_7_225568.png" group-title="CINE", CINEma Dinamita
+http://zonatv.us/chan/sd54fIs21ds654/cinemadinamita.php?index.m3u8
+
+#EXTINF:-1 group-title="A prueba",DEPORTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
