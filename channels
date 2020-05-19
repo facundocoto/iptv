@@ -61,3 +61,18 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 ########## A prueba ##########
 
+
+#EXTINF:0 group-title="A prueba" tvg-logo="", MTV http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:0 group-title="A prueba" tvg-logo="", National Geographic http://stream-7b694ce7e.nmbs.top/m3u/WildlifeScience/dd38211ebb.m3u8
+#EXTINF:0 group-title="A prueba" tvg-logo="", BBC News http://51.52.156.22:8888/http/004
+
+#EXTINF:0 group-title="A prueba" tvg-logo="", Discovery Kids https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+
+#EXTINF:0 group-title="A prueba" tvg-logo="", DW Español http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="A prueba" tvg-logo="", Fox Sport EN http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:0 group-title="A prueba" tvg-logo="", Nat Geo Wild  http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:0 group-title="A prueba" tvg-logo="", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="A prueba" tvg-logo="", Tom y Jerry https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
