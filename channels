@@ -47,12 +47,18 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png", Fox Sport EN http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png", Nat Geo Wild  http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
 #EXTINF:0 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:0 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es", 13 Max Telefe http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+
+#EXTINF:0 group-title="Noticias" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/186.png", America TV https://www.youtube.com/watch?v=li3GN0Hm7w8
+
+#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png", C5N https://www.youtube.com/watch?v=sOHkOmEs7SE
+
+
 
 ########## Infantiles ##########
 
@@ -72,6 +78,12 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:0 group-title="Musica" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
+#EXTINF:0 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png", Top Latino http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+
+########## Peliculas ##########
+
+#EXTINF:0 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 
 
 
