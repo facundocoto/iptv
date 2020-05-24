@@ -2,92 +2,95 @@
 
 ########## Noticias ##########
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png", Multivisión http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png", Multivisión http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png", Quatro TV https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png", Quatro TV https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Noticias" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", Canal Montevideo http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", Canal Montevideo http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/tvficticia/images/3/3d/Repetidora9DiezTV.png/revision/latest/scale-to-width-down/340?cb=20150330173026&path-prefix=es", Radio TV Neuquen http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8 
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/tvficticia/images/3/3d/Repetidora9DiezTV.png/revision/latest/scale-to-width-down/340?cb=20150330173026&path-prefix=es", Radio TV Neuquen http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8 
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" group-title="Noticias",  24/7 Noticias http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" group-title="Noticias",  24/7 Noticias http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://k60.kn3.net/6/8/1/4/9/A/64F.png", Canal 10 Rio Negro http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://k60.kn3.net/6/8/1/4/9/A/64F.png", Canal 10 Rio Negro http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias"  tvg-logo="https://k61.kn3.net/B/0/D/8/5/1/036.png" group-title="Noticias",  Canal 4 Posadas http://184.154.28.210:1935/canal4/canal4/playlist.m3u8 
+#EXTINF:-1 group-title="Noticias"  tvg-logo="https://k61.kn3.net/B/0/D/8/5/1/036.png" group-title="Noticias",  Canal 4 Posadas http://184.154.28.210:1935/canal4/canal4/playlist.m3u8 
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png", Ciudad TV chacohttp://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png", Ciudad TV chacohttp://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/proxy/mjAaIgxa66wZhUST12suiJUHGLsggA2XkjiwGSXBR06_ZhDky54yJV9ajdLHqZlB1k_aenqAG1OFQa0aehHRessPY6yUcVS-lL50lm5sgXn2eV8dl3Vh9suZvQ", Canal 9 Salta http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/proxy/mjAaIgxa66wZhUST12suiJUHGLsggA2XkjiwGSXBR06_ZhDky54yJV9ajdLHqZlB1k_aenqAG1OFQa0aehHRessPY6yUcVS-lL50lm5sgXn2eV8dl3Vh9suZvQ", Canal 9 Salta http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/VhOolgs.png",Pinguino TV http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VhOolgs.png",Pinguino TV http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Telam_logo.png" ,Télam 4 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Telam_logo.png" ,Télam 4 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" , Canal ONCE
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" , Canal ONCE
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png", MTV http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png", MTV http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png", Fox Sport EN http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png", Fox Sport EN http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es", 13 Max Telefe http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es", 13 Max Telefe http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/186.png", America TV https://www.youtube.com/watch?v=li3GN0Hm7w8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/186.png", America TV https://www.youtube.com/watch?v=li3GN0Hm7w8
 
-#EXTINF:0 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png", C5N https://www.youtube.com/watch?v=sOHkOmEs7SE
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://epycaconsultores.com.ar/wp-content/uploads/2018/04/cronicatv_2008.jpg", Crónica https://www.youtube.com/watch?v=WjEGCwzOKHI
+
 
 
 
 ########## Infantiles ##########
 
-#EXTINF:0 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:0 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 
 
 
 ########## Musica ##########
 
-#EXTINF:0 group-title="Musica" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" , Music Top HD http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" , Music Top HD http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:0 group-title="Musica" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS5tZWxvZHlfY2hhbm5lbC5zY18zWEg5NUdfaWNvbl8wX2Q0NjY0YjI3/icon.png?w=170&fakeurl=1", Melody Channel http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS5tZWxvZHlfY2hhbm5lbC5zY18zWEg5NUdfaWNvbl8wX2Q0NjY0YjI3/icon.png?w=170&fakeurl=1", Melody Channel http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
 
-#EXTINF:0 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 group-title="Musica" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
-#EXTINF:0 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png", Top Latino http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png", Top Latino http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="", Good Life Radio https://www.youtube.com/watch?v=36YnV9STBqc
 
 
 ########## Peliculas ##########
 
-#EXTINF:0 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 
 
 
 ########## A prueba ##########
 
 
-
+#EXTINF:-1 group-title="A prueba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Telefe https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1590202561~exp=1590378961~acl=/i/evento6hls_1@48399/*~hmac=04d8cf57d510ab1e323d99bde93fd19e2f6a26f2c9d7e2f7a154d4ad58031b72
