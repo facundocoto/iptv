@@ -52,7 +52,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es", 13 Max Telefe http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal13cteslogo2018.png/revision/latest/scale-to-width-down/340?cb=20190831162351&path-prefix=es", 13 Max http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/186.png", America TV https://www.youtube.com/watch?v=li3GN0Hm7w8
 
@@ -92,5 +92,6 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 
 ########## A prueba ##########
+#EXTINF:-1 group-title="A Prueba" tvg-logo="", Espn https://soloveo.com/espnhd.php
 
 
