@@ -92,3 +92,12 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 ########## A prueba ##########
 
 #EXTINF:-1 group-title="A prueba" tvg-logo="", Cartoon Netwoork https://player.twitch.tv/?channel=cr_tt88&enableExtensions=true&muted=false&player=popout&volume=0.79
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="", Los simpsons 1 http://www.supertelevisionhd.com/los-simpsons-tv-en-vivo/
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="", Los simpsons 2 http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
+
+#EXTINF:-1 group-title="A prueba" tvg-logo="", Los simpsons 3 http://89.105.194.59:25461/hls/spentr8xx/spentr8xx/68/02c16b5d4d24194d82a29eebc52f80fc/68_372.ts
+
+
+
