@@ -45,8 +45,6 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png", Fox Sport EN http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN
@@ -83,21 +81,15 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 group-title="Musica" tvg-logo="", Good Life Radio https://www.youtube.com/watch?v=36YnV9STBqc
 
 
-########## Peliculas ##########
+########## Peliculas y otros ##########
 
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 group-title="Peliculas y otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
 
 
 ########## A prueba ##########
 
-#EXTINF:-1 group-title="A prueba" tvg-logo="", Cartoon Netwoork https://player.twitch.tv/?channel=cr_tt88&enableExtensions=true&muted=false&player=popout&volume=0.79
-
-#EXTINF:-1 group-title="A prueba" tvg-logo="", Los simpsons 1 http://www.supertelevisionhd.com/los-simpsons-tv-en-vivo/
-
-#EXTINF:-1 group-title="A prueba" tvg-logo="", Los simpsons 2 http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
-
-#EXTINF:-1 group-title="A prueba" tvg-logo="", Los simpsons 3 http://89.105.194.59:25461/hls/spentr8xx/spentr8xx/68/02c16b5d4d24194d82a29eebc52f80fc/68_372.ts
 
 
 
