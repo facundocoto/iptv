@@ -2,9 +2,9 @@
 
 ########## Noticias ##########
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 
@@ -81,19 +81,20 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 group-title="Musica" tvg-logo="", Good Life Radio https://www.youtube.com/watch?v=36YnV9STBqc
 
 
-########## Peliculas y otros ##########
+########## Peliculas, documentales y series ##########
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Otros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 group-title="Peliculas y otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
+#EXTINF:-1 group-title="Otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
 
+#EXTINF:-1 group-title="Otros" tvg-logo="", Discovery channel https://usher.ttvnw.net/api/channel/hls/ch_ds1.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=6478624&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=5dd3eee7626b7b6748c9176a67f2c5e1db04b84c&token=%7B%22adblock%22%3Atrue%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ch_ds1%22%2C%22channel_id%22%3A534263803%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%223b3e8cbe34118d9e%22%2C%22expires%22%3A1590543033%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.52.203.106%22%2C%22version%22%3A2%7D&supported_codecs=avc1
 
 ########## A prueba ##########
 
-#EXTINF:-1 group-title="A prueba" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Fox Sports https://e5.cdn4.us/ingest013/57852.m3u8?sf=Mk1EaVpEUkhkYg==&token=oVYOkqBM9cLYZ-oclJJZDA&expires=1590551801&rnd=
+#EXTINF:-1 group-title="A prueba" tvg-logo="", FOX 1 https://video-edge-c55b90.sao01.abs.hls.ttvnw.net/v1/segment/CoIEpdBnfb79Gm3-8QK2sfHAIvo1LO23Jpus0CnVS0_EDL4yAD84-PrsJLNifGREy8aqal7ERwpDBeH-b2Mf8j2hT0TTyoulwzUtHZlQ6pywmyWi80UB9q7PgLVxVJGu3UTPr8ObQdTMiWSB6J7ehyqIOe91ubhpqin1WrJdeueJcCNaH0olO_kqkExBBNqwaAoJ38CEcZMnFAXfX-qWaRi6l450hE-gP8ejgwW2NypQsTIE7OPmXKQRtfn-UL5UVIMzFvCPCl2IdxUiftc4K2KwRlfFfTR7GDSz9J3ZFFkfF-8Mcd2tmINGFHTLoWcDZk44yll6f2aO9fGkoHPdmDCZolnDPvF9m6pl-WBhCeLHt3Hp6fGoTTrNbtUSWCXpMgl3rN7uAYsa7g1lPZy3ceXo9gLWdfWWJSiTuHArpoUkdrP6lE-g4_7ewJrZTbT46wc2WgFak1CWJuhGklocBI7RtFuHsf57aiAHXiHQZmIfURarl0z9ZRvZDE2bQXVSMr9dqqiyX96JnwCmxheE-L1AXZM1ZxpjoQBYJHOT2NL9G8uExEzJnsRB9JXMarnTyELytpi8pB-m9cy78uG_OGDrlLvzXB1W1APzWzATvqo17eUrxWq-nTF2Ykm2klroYdMXCX1uHW5EnQffS2gxKgp5rHKR7V3zaf7-ij-lXnDZ2KIWnxIQzk7EUamQwRWUS43gY0GBYhoM_sXyCU_ikJJ6J8Ub.ts
 
-#EXTINF:-1 group-title="A prueba" tvg-logo="", Discovery channel https://usher.ttvnw.net/api/channel/hls/ch_ds1.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=6478624&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=5dd3eee7626b7b6748c9176a67f2c5e1db04b84c&token=%7B%22adblock%22%3Atrue%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ch_ds1%22%2C%22channel_id%22%3A534263803%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%223b3e8cbe34118d9e%22%2C%22expires%22%3A1590543033%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.52.203.106%22%2C%22version%22%3A2%7D&supported_codecs=avc1
+#EXTINF:-1 group-title="A prueba" tvg-logo="", FOX 2 https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CoEEOpe2NdDIuzXvx5JUwPQq12ZN6_OrnZKD2OXnwF8YejTdplMTb5tpYRn9bj24jvYy6mtRZF5aY0qPnwP8zevJHRazxyj_ZBB_jJRBlMiArw3EMhRitSgasuerPhY30O7CuM9uswOimiGYCODtLGr2UNYwjkqoy00XR_xrltl-tOMAZa_KzXHRAINMDBkHlypd8FZEJwwa9qhTmwhnV4nu0Ew2aUAjIz1JBclFav8t9AiMfbJ24_OAoRf18NTkMHuJmjOXJoVFWlnJMtl43EWv1m1XEV3ws7l-yNKFOxyqasyngOmd3ZE_kHfz_nO1JH_yDA_dd-3ud0Nj-zo5QB7lSDfSLxo9GQT34Cb_No4vHRayoAIb5lw9mJWn9eA5E3udNkAZeaGDs58vukGXC1ZMzXEgMu2H6pBTsbGsA-XZtijZtp2cp6ThYs4hX7Z7Ae0fR_EDbLuqhzeKgiJITMxhNRWoYbrGcb9ma8Zij3FqnrLdNDhwk9wANSEZDN4ZQCm4_H-pepfwRs4q-Krmif5L7caE9SC6eWfvbWgq0_oC0qp3lfywLlOlkl2cBOanhOfkhO3JFO8ZoY0KvsKSO3M1tXjm34GnSIemtCI9WNVMIahrn5DCLo6DW2vJbc8rFvORLwr_5uQzHylHC3FZ-9rUHNfv5wRr8as2-EEsfwnF26mFEhCEr_I2RtSfCIlfV9EIJcF1Ggzxwv7sU1PlCMUyhYE.m3u8
 
-#EXTINF:-1 group-title="A prueba" tvg-logo="", FOX https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CoEEqnycWHqY-fZRPWl7Qkm9FjFGks2balt1tQ3ha76R_95q_DD2fPCh0Q50LAQ1iaSV47Wu3A8MU6xpQrE5IJAj0w5-RhIlDboPVMA6OJaRCEtls2QIxXuVjOE4zBnZz19atzmPgbDFS0xls4nhNPHB4uEr2rPo3JvoI2T6HzcGW8d_ZnsEjw5slTGV5I3ODfGK1giA1nRkH4m_u3uLxdDT0z0QfP-c76aaLeU3dwZMIujTEjyfa2iGM6az0nQsNr5JUkDLUDEfnnvOBq-33Zohi_YPe8tkSlerq_TJFKVPN-yzDkIhwuo23ZTxpvJKwniEddUji5nSDZl0dGkkN9iOcOXnK89lh-rQDlRkwiMocw4sXR5gEbpoZ0fDIHWCnoukU44aI8zva657_Kq7kaxgjuLFdDhMUDRM_2bfWcbZTme7LMofP5jcV6tnOSNLS9p059qkDKNLeh7zEbHK5dV4eqnDSOJygdN2dQHRE0O5xyXCLQXdGBYEc1CBbt5d8D33vBoRspTqaUY_UjchcEJVvbyLxaZUKfDMoqwVV_QQcFBswidJ2xj3KKLZrfmgQh2iq4KHvpscsoBXCTB_-wd0Rbvlfo1xPaGd7TEHMfJEWpKaXuN8kix9YVd66x34hzynTAJvZ0gDVe4ZMCdqkmGW5BFOvdHDUf_qnC69av-q0SYgEhCV1PAtCU8KXcns3uitkQ-dGgygxh4z_050h5leJM8.m3u8
+#EXTINF:-1 group-title="A prueba" tvg-logo="", Golden http://89.105.194.59:25461/live/4spbb33/4spbb33/8.m3u8
 
-
+#EXTINF:-1 group-title="A prueba" tvg-logo="", Cinemax https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax-audio_AACL_spa_144800_51=144800.m3u8
