@@ -2,8 +2,6 @@
 
 ########## Noticias ##########
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
@@ -43,7 +41,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png", MTV http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español https://logs1242.xiti.com/hit.xiti?s=510544&ts=1590932491356&vtag=5.13.1&ptag=js&r=1366x768x24x24&re=1366x550&hl=10x41x31&lng=es-419&plyr=0&p=i/dwstream3_live@124409/master.m3u8&a=refresh&type=video&m6=live
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
@@ -54,16 +52,18 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://epycaconsultores.com.ar/wp-content/uploads/2018/04/cronicatv_2008.jpg", Crónica https://www.youtube.com/watch?v=WjEGCwzOKHI
 
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
+
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Telefe https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1590769419~exp=1590945819~acl=/i/evento6hls_1@48399/*~hmac=259f45ad58ef7261191f31d19b3646101167491021031d83ed791929d432cfe5
 
-
+########## Deportes ##########
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 https://e5.cdn4.us/ingest02/57853.m3u8?sf=N0xKUU9KM3Ixdg==&token=nC0tX50jvyUDEDkC2fTFMw&expires=1590947469&rnd=
 
 ########## Infantiles ##########
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
-
+#EXTINF:-1 group-title="Infantiles" tvg-logo="", Cartoon Network https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp0EqyZoETlwUtj2oeV8IX7JWIKgjY7Te-11vQufHfA0mlYv_-f444dRFiO5dHmXbeS6q8Bqr43HvTS7BGdbwtXI2QUjPTnS0SV8hGnBUSWYMZquotIENO_ybeKfgeVyH0ret1G8Iiv4_81c8p6K6BxatfHFgZ1b83k9M64UdnSBrButXFA_So-OLDKtsgH3gfBiuWHOcSfM0XrUNFI1lN20nNQ83fn5n_gC0kq9Esu3uBy7IHVBRX34sTUXGUjgn9ij1r3RZXC0oIWqdDhDFqQwtCxEyA1koLGY2GBlpd6JuujjrZ_GjuOzBvJ3U4WP8zLdHHiQH0rHsQJVJfiAq_6ZqeDPRdKvKAqnDNzBPSdiMXMRGeRwulOEmoF65h_K2m5hQ5TFAABC5KUWqL0XtimChuZAovQbp7j2LGBXCCVhpamcWDGoohyqnDRwno8rwDNK1wfjzULWseSQCvtj5kzvcYOPRZjq50tWWkjIiA3XElngtfCRZG27E8OYIr2kX0Kq8eyDwLLHVU_ETL1XTVqom_srpnscv1xCgRO_70w6MiuNJgfYCnzDSIAOszEcHYHKZgiVJs6B9mFqUwXFSbfYkpWblRA73dOAa6XRgENQxqLGYLHsnJmJSqMUJ-I_v3QI2yYJXSoSA5cwj3EDigSkxZT_sLa_6UbLie7GNYhUorlTRbxVdN4N080E1VcuSntQbJ2DlgFQswL_68wA6RIQ0nji49N6yzHNICjfh4zrwhoMjXvB0EPSzbBqFtfd.m3u8
 
 
 ########## Musica ##########
@@ -87,13 +87,13 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="Otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
 
-#EXTINF:-1 group-title="Otros" tvg-logo="", Discovery channel https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrsEioiei8JO7klb1B-WKYJMFyvDKCEdHjX3NBaN4qyuk4fOhS_PQ-hTTrd3Bd_DwH2B4qb-GSaw9uSK4UQWtWFKNFk-5dsShX23R3o6azTT8ZOfMLd8moEHfeUbYuhVqxNMUbQwZrUbJ6J0DurrHLM1oHpuEP-GzeAr4i34BSX7-NFBPUtBqoflc8_Nc3XmNuCgo8w86HPhUYu_JMVt1DsZbnbinvMAgugDD1r7PgeWUQDpOoG7Lnhylw_Rw1Sj-UB2QDHoU5YuaUX6hRqZ97dX1Qx5MG1yWjQBnRNBVkzezKTSD5J3y_KDim1YGuIoeN0vgw6o5KXI_391EZjLBsI9shtOc32XxrzNxMNoC6UGMK4-luFq-UZ72HRRr342ar_8mvYeqDvA1baSEBWHUZ3B7fwOGwTc6V2iNJWIJGNd6Lv906GCfauOhT82nKftxZdOBHUKH9ZyyFTG8MhNon18Q-2vzOp4yfoRJengrSKfkoFuD6qIggENZEOKXivO3Y3DcVSassGtMWLxYnFgWCOPWSAgQ4EDTFjdboioLA4TM4RHD-_CRY6j7H7RB6NUivKarjh1BiWj_0zl6EdQZxWIas56N1cjl3radtvhrnoGERNcLA1oum9l9sEVUfQ3kalxBrGe7oPLhoAKTRrOcO4ZqpmgsdNFgO6yS5g78HhegyW3QhqxQDVkjInqUVOeanxpMH01wGiLUQGcA4K7eRApepgbYbbE3i5qGtuyFLnFMzsufDgEZFveRjhOyBIQ6UKolG28ewzrSm7fxHVK1xoM9Xd739wZCOzMNzZF.m3u8
+#EXTINF:-1 group-title="Otros" tvg-logo="", Discovery channel https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpsEHUh3AxMBU1_BkIMwLsYF4yMo1146ubOGGwwFPwusVHg0DDmCytajhwgcndz1i39UQborDpJtW3WPoTl9sEPCEuqm9RE4LGYs-Ae6A9QlicH1yImg4_uJeFweaBDFtCDxLu--_LP8JrBAqWV4Hgzz7oByTV4R7_Ck3tLqv82AqSYdycOQmamlbLP6xGNb1L8pvnY4pDuI0psfUwIRTmBwsu0wjC5Fm9RXrk5f0oHdhyf6IoytDWSfvKIPWPPkbIYBQVZgdM74OBzUNTQZupbN16E5EFQNtOC1LD1_PWgoUCdBffJaBQn9qaf-msLmg7Pbr-pfYRFfMSna6YfrZe4tGR_NcAwteSHzvBTJ4wZzLvq_eA2DoBixvKoYCsDFihmZSRxvk0AdADOQLtlKWakQZmrBcmyBrlAfPZ1kQ3Fb5V0YTJJjAysZkBbBh3LCydDyWbxnbqdVPHjuCEFpoUoI_lJqxS5p8qBatQW34KULgft4gtctuPZfh7fM_7g2i2a8Qmmsb0LZ11y8v2-ag4L6IAZEf5r4zxjF9SO_OK36SVC0yx-jiozsW08fNPLfHim81yzH9Fs1VSGejHLGmw99UwlsjhnXbrXwhSYZ1V-ffkMCgXb7l7E_szPWE-bpHhP7vtv7wduJc7cYLww8_9VdNjhNryTJwUmosyl5T8cEsAOuw10Rb_f59H9orPZh5JY1BPE0UbNcqQg3XvQSEI0ZxLSIp0UGOH7ONRVgH58aDAbAUeyJh8ifLTIkEw.m3u8
 
-#EXTINF:-1 group-title="Otros" tvg-logo="", FOX https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrsEYVujy0SM_x6JV6y42J5T6HASGseOEB87SDdXb7_lFRA4kQlO18GbTw_25rtYat_5qtgTiyJ6SuKewa9H2rhZ_KbXmP_ergDLQUU4qYgPZEDSxJ2eGbG9wiQFd_Y_41M1H_r8NjSmdtgm0LHW9uHwJmFksVwttkLsqP2sigfJpUy-_8FcgWZsp3j0GFLfyqyr0vQJm-iUz6vYviuUzAARsjnNTB5sRMAOsPA63xNOoSgSj2nLA1FMPRQtV6IXeh5UW2pGl7IAEfdHjqfEtMaKKDOeWPmckACfNBCS4cVAq3vR8HWqJSby9jDfCeAMgYf64nPPO3ViA-QiJeSxsCErG2idZwwDwhOG53E72uamoDHmZojBCkzyry5VpxwkLWszLWASi-KqBIWwrVcyZfuBtzK9YkH6avZ9fufDCBZy5oeDhctmF4YI-uUkur0RA-0wnrTkK_gAqMactL6oAXqZ14VOfHTdXlpVK8qNOzNBuPxdaTtn5J2tzX4GTLssdvT3Ex9ROt6fvxrPN6YjqU7djtd_Db5SRU6sDu6TPY2lvsWFipgP_OPEg0OFeiY9bgdJ_nt8N66tCU1Z3wZG3ptSUwBCpMVmH-OnEgnfuc4HwwkEPC784ZxHdLY-YAJeK2_apbPS4JbUu78TYP2sEVqn0wgnx3m2z72gexG4M4hNK0wjZerEYO6MftaY8cAMueLFzfjfjB1HG-KIAu7V8XWy0Bz44jrsID3izBGGvynx1TaD3RB1U6m8IdyZCRIQ9cm43i4VTOU330VJVgih6xoMIRVc61sM0XAWq6Wv.m3u8
+#EXTINF:-1 group-title="Otros" tvg-logo="", FOX https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpsEn02MXOBIdVW40pcl6FiPwQ2jpgBWH6SNAWt2v9ut0lvS5_PiO-7Q_MqfFUHK1eRTvf2tuCOPyj_uWKdS8zC4-OizFRDeCw8g0yhBwssq-ePOH9GjYfF_W0OkuchWQVr5Z46K3UWiYR9AxhEAPRdBXITtJNXWCbODiMq_rVHS07hI2-B_KvHJmLYDx7qMS99-Fez5Hgcstow-57DgORYRqH9wkPrIT1_3hQwYSqlhLCz-2Vs_x-9t6sZwKtIckGg2c6SecBNWUxLfEos8FAHQQA8FcS_rJHXQeepX8KXQfoEGYWHmycYuisFRYXUEDK6zbSRL-eYKZmkAguzKRxWir18-dpnpqVxebs7jCdmSIgYdlXhQd-GzvwbuXkgMenBcZQrU4JMsKfu8nouYN9nweyBT6Ou_U5B0mmMdvcUEloSw-tqwPNF2xbsz0t5a9ayUWJWN3DW30bGODvCY2XzGor6xBK5SY4JrCP1XRWJYF4ZwcOZdRzFG6TO1GjRdPTTWh5H8Of89CRS5DQcNAXg2bvslilIblIw65xuURjGZpTLdJ4cg0M1Y-xfWAER1--885rG7yW5TMjHLrWJYvgSCYILzxl5cDZgrRFcjQypZDfiRUuRa0CGF1vd8FOTjXIbeMF61o4pnO7mzxJ4CIgRNqNeE5r5TRTKqc6VhF57SWqohOOtSlhMMTahew6v4-Tbs75_DJ3BeDag9FCsSECAKnosYbZezeDxnnOVw9l8aDOSIkH9WjEmWrGFEzg.m3u8
 
 #EXTINF:-1 group-title="Otros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", Golden http://89.105.194.59:25461/live/4spbb33/4spbb33/8.m3u8
 
-#EXTINF:-1 group-title="Otros" tvg-logo="", TNT  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrsEMJ9a6Os9m6QErr7GjoZqhHGjeiZ0juncSqKedfu4kzWkqcXPrarQiYIq3NjtvIhkPDTX_RqljR1Cu8A55sBpjoI-KYyqVVssRAgoyZwhul_oo7e_FvZgnw6j_W205u8cfAnpdyRTrtOtY0UN_CiSKBwCsA8Hsj5G16UU3kd2ur47NNba2lbNTUynI3x7vUsQXA5gLlGa7LJmZoNRu73xOfHy9HNmiRV0vQFo8E3ZL_8wXO8Mo50gF07Bc6_7OSNVClhMCg913Xmn0M3dVVoFfN5Pj8EaUn0C-EtGhV55fUq_EadhiIf2s08B07sGU6dyw4j9h7EG1Q59iCy8bqrHS2Y_Lcl1ra58C0hhB5k01xZyrj49ogH94ZjZ0yn3ihjPkb54JcB6fz56OG-7KG-VnEihBX06CKTC91XVvUfZKkQndts1G2ldE7QIBXLDg7y5MsR7AZ7GhNBKfhC9RR3IgwQ1V8-itcHhpHaQvsJIzcCpWWL3-anEfuBzr8qjZF0nMF3fG6SHERmtSt47tVfcSNSl0PwfGrTb9o5MdwIKYxHUBg36uNr_M7qNrzv7EhYFKdTeHdmWsL5fG4WA1SLfHAqrmF2SWPGvbHTI4f1mcuaRnVZfK9XGaBQKAlGK4smRM1TKgpBpaleMQ1on5QPLWToez-xwtA65N1k3_I7IAsPi8enBGlB5F0uC5v4IorVsCeIWDeazXVUUh1rbYxwmYxdA82qdpnn_lC7GRbhm20DdwyPNHvltAwJB0RIQkL4UteqXckZUotrwTACHDRoM8dY4q2TroUEM2_8-.m3u8
+#EXTINF:-1 group-title="Otros" tvg-logo="", TNT  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpwE_1D-D9jF6omRaXPMy2Mn_n_YEULTA8zXM_9wYLBAGjLHSgDdFKuXYygO1ov25KBjS7r653l8_dyg3Rp3VQBTRqVvVIj1nTa6DG8qWVnxM2CL3GqhHg6B8DLPKYSs6TiGY50NcX4-B5HEcImfeGLVmG7QhnFh996WtW6pD-6BwxpCSt0A1K9qg44y6ZMIWvOwJBZgMNDi2Vx9xt92iB_ww42gwWpJlFvbovxntbNNN3xVrIi1qoUGa1yzRt4w85YHeaT1Wf8E2ew8UHCcc-PYld5qZBjpd8Iu2eIUBo-k_lyPKHVIhxDWKxJe_HztIj5G8-jQHHmXaD1kR2UTOEtiicX0G4fvkp8AZCNHojZZBQo5TumVOCYZBKJCmedxkT76-e-7lguzgs5fk33mbNoC7kNrQDmwyhPYXf5GFRKAwp3kEzg76EP-_vxKvQaKobdjJy7sW1RfDGyY_LH0N8RZPsHqAeWJG3mqFjhnOR3YXtCftS0_pO8SY8mFbKcVnIrSn9NeTj5cqHF_ilyv0Ih-Dvp1qrWNUidxbHwie9IYo4P17jUtmd6iaPaN9elPCsPeLYbyBAdnpC5mLN0hqZ9_Losfw27uIkGfpgsHLJwq0RjHCyoZjl_FRZTIi_Hu5cLMfaMS_X1MUS6egMXKEWXYbjFN6YvOiI12S8aO9vIE9ge9MFULiqcI5vwSqkCzJiTnFPTgirF9SivU0K4PEhDYaqQYo7IeFKhWcBzAX3EyGgybYAU82arIiYP16Io.m3u8
 
 ########## A prueba ##########
 
