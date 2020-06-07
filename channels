@@ -6,8 +6,6 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png", Multivisión http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
@@ -24,24 +22,16 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" group-title="Noticias",  24/7 Noticias http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://k60.kn3.net/6/8/1/4/9/A/64F.png", Canal 10 Rio Negro http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-#EXTINF:-1 group-title="Noticias"  tvg-logo="https://k61.kn3.net/B/0/D/8/5/1/036.png" group-title="Noticias",  Canal 4 Posadas http://184.154.28.210:1935/canal4/canal4/playlist.m3u8 
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png", Ciudad TV chacohttp://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/proxy/mjAaIgxa66wZhUST12suiJUHGLsggA2XkjiwGSXBR06_ZhDky54yJV9ajdLHqZlB1k_aenqAG1OFQa0aehHRessPY6yUcVS-lL50lm5sgXn2eV8dl3Vh9suZvQ", Canal 9 Salta http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VhOolgs.png",Pinguino TV http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Telam_logo.png" ,Télam 4 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" , Canal ONCE
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png", MTV http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW Español https://logs1242.xiti.com/hit.xiti?s=510544&ts=1590932491356&vtag=5.13.1&ptag=js&r=1366x768x24x24&re=1366x550&hl=10x41x31&lng=es-419&plyr=0&p=i/dwstream3_live@124409/master.m3u8&a=refresh&type=video&m6=live
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
@@ -50,12 +40,29 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/186.png", America TV https://www.youtube.com/watch?v=li3GN0Hm7w8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://epycaconsultores.com.ar/wp-content/uploads/2018/04/cronicatv_2008.jpg", Crónica https://www.youtube.com/watch?v=WjEGCwzOKHI
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://epycaconsultores.com.ar/wp-content/uploads/2018/04/cronicatv_2008.jpg", Crónica https://www.youtube.com/watch?v=K9X2WcIk_Ws
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="", Telefe https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_2_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1591047208~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=5a965736c72dcb7eaec2bc7e37b0320b8aaf9b1b9cad1d287e508ddddd0fa107
+
 #EXTINF:-1 group-title="Noticias" tvg-logo="", Canal 13 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqAEXMuNMaVB4DPNI7QjwdY9XlZEL4ULNZXe8kAd7lhqEJ6TUAIakPdtjfxAZtP249KtV5Xa2EgGg7bk4zSm2XD6c7a06sNm_K4hksMHiJMxZHHWBRQiP1Mi2sQd-zjdAe_hCstH1S5xVT1LYLZkzuqtbzFX4YHyoJNdXkJoT3GUV4k1WnqcUOAwIYc9DWXk7X48ovlpDDA2Y5MyJymJnte2Qwbem5cD7JcDd6X1l7z3c3K4ZecOmJLTCE4bKixEv-gX78eBwtITWv04wCDJ8_bHJWn38F1Q9kIda-dl9sk__z6ifPcG7TbENc16SKGouTDKWx2lLW7RXXKUpryqJMHJ9HGKRnfjqxkj-TXVOy7NBxePn6a5ZlT3WYjH8TxLpr7xlbuxIz9Jwc7Am21wYW5nyBOL0oOTUD7xOgPmms6A0v7OngQDN4tBr3YQy9tzKxamN5AWlsWDTYxhO5A3PyEgAEZBggfGYBGl8iyVO0I5CscyBAylxu2cBgRBqss1GfvVvfChZO2HzHHsVnLEmt-6zvQ6S_gTLjFv4aamMPBiIdsCKaeAqo2e6QY075EtxKMapSYaw31y8uqnUiGGTPbnqWCO8ROM2Z4qzQHfqzZ00wLyjrQcYuOesa4h40-yv835mBqLY1Z2rt5KytC9bIKOGtz2emPQbIb8cY7VunMey4Xnbskb2vKUJ5n5AUqSmU19GgP905Lt4n0z90DLhXd2bRIQy0k8nkiXkuzXhw54-GhO4hoMJisGWBjo2V7Jh42z.m3u8
+
+
+########## Peliculas, documentales y series ##########
+
+#EXTINF:-1 group-title="Otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr900/spentr900/68.m3u8
+
+#EXTINF:-1 group-title="Otros" tvg-logo="", Discovery channel  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cr4EJsz1QVvwhkZjxzgiBJotVOI4GyKyLSm9pl61ya3r5H6wFU8KJCVAJYt1R3E4u-ukCVPh7Or9_fbrbMzf4I6h0_P-NeBJbnQT0N4atvv07JPIoOX6_h-LhsuU8MaYqzSwcfe-_LlMxU8MDPGA-vaEVrfIePEM4_MIZ4ljokvMp7rHyFiLODDBKLNwxNpX5f-zJbf1bTiiVNjp1mHPUwc3_Yz49Du6Zt_0JEybONuH3obMXVbz21XzW5GaUCzizfsob4ZpYNKatDBecXww9OWbnYamRC5Oitxij9umjQhBVfszC-TFZGmsrA_YV6F7xPYeeReHO7i0-bwZh2VNPUOP1UfN207TqLIyGsk4SK3NUIiH6Q83d87o-qnf3ipok6eI87mj__JqD2aFk1I7RlRVYpDJsGOpihrUmiLpjVd4By7P21nCfH5XlafV4szUUgM5t-gm_zvqJRdAuKly3rJ7ZPcTSNn6TXg1gVIc3ACThkVwCahD5irVdz6wW5w7lGKPEeRGhJMBvVMtMBoeZePdH-KT2Pnqt9MDfN5QvBqdzvMqTa4y7cYSqAVIAMaq25gz4A-fBGvR2Jh4Ot200XgN9h9WuoFYSDARBT6OkwIvs1hVpRSIyVCpe98eIBpessfget0d-LwEvIk9JfnkHEKUsKD1C7Q5n9zH49IoFGp1JOSuHuDVeVrv0loWBUwN-pOnpb899SdTSqIL8DhXvdYx7j422WnIeabp92ZARKKCCfWJgSy15t-tnaAipOw4wRIQRjCRulUke0kLJUmUM3q7-hoMOg-BFOa2HbtWti47.m3u8
+
+#EXTINF:-1 group-title="Otros" tvg-logo="", FOX https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsEEH2Gxwq2256VxUQ3qNltRFdYD3hmDK2n7Hjytn1wHUr3l0huvqyW_R6ul_y1Eg8uKVcdhTRYaMYmuEPrEWFvI_0JY-8RadqsVGPxBLSgKvtrzzBB13i-WGHYyiic2rPzn-uZPei70u3ROLqpIhn-lspLTEtPiO-ScQlzXyxRDZKBUZy_9NWspod-WM_CemvW-J0D24Lk0vP9_ModqkesjFnWbShlrqr-XfDS92oJ_jXzAtb3O7GsonF_pU6qj9GLDAeYCQeM70GC7CD9lSWPWaBpQWXQagVBcu4FqTr0WH28Q10yrXA_vxawConghTukgZVptajWIIH_WuYGaFSke7g-4IZFxhIi-HYCTP-IMX_Tod4_a9BznQ1eJ-nqWtfIDv1Ati9xB1IomBMOwUw3ZgdSdUUa_lyg19-uhdu2WRevq65jtI-W4amdVrYMZvSV1N6GQq5QsfpIANA502y5bKpPWS7rj-Mh04ezwzPyunjj-Uh42dsMtEePo_q-QpvcNb3oytagr1DcotIa_rUEvmxRuyLcaXk1Yob3UljPMIaSw5zFPPobg239qE8Mc2EKeibu71TcIYGmSx7YIbIukO6fJRgKcvqEnbTLK_8rFqUyQndEJ61P3My49l_ukmD72c8HDWvau1s7pLTlMkaLHqmw1gFjrFvDpnNp1nfqSFfkwvxxhVH4oSufuwgOH60kH-mlln4MjMwonCwizCywBa7xC-0WV3bjuPgBf_g2GfSdSBh5OclfhlYqEdrOUweSjpBIQdRpVIQtFg6sSW1yfB3Q2LBoMViRidqPt1NisBXW8.m3u8
+
+#EXTINF:-1 group-title="Otros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", Golden http://89.105.194.59:25461/live/4spbb33/4spbb33/8.m3u8
+
+#EXTINF:-1 group-title="Otros" tvg-logo="", TNT  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsUEMG5V_Kk3aqETL6D5uSiBGYNJtaC6zfpbrz19l9oaGA_-kta2idCMUM0IPSFQAWfOHAT5O6WemPulTEmA9E2y97rRw2nnZRJwVLYG-hEJ0AtjsxW32v9VJH_UQTooFT_vYr-oHqI2wftxj5b-cimAeTTpddIfx06onK1T3d3CjUAmsDUQJPk5tVKmRMLhZxGQJB_6FGznywWxZlSJhwBsCYqd27ZYGn9Z0DetUXTPOkTx2AkSLKnZa7rN-3WWrL8zM2_fyyIzYNHCgjjnTOH154-6UnC4hc_UWL5VsZbVWuSUCdwk_Oa6185PXavKncUx4Qo8RM9Mmobv_-kyp-X2uPT6m2b8ve3Y-rfsPAFrSUXqzhe_OQ_fRA5xp4Xvq5MC5oZjNIR8BU6UcPyfA1VTejA68FMiuJvH_zBQQ8UzQ8B9ut-QMrfzxrfg4ppFmRhS_LbewiOC5FECA2x9wtees7ddrw2Hl_TmtuvQGjG6GXk1dysHUGP6l0TgMjpigfcX4tDku-FYHz2g4bEaqK3vzheyChEoDAsBBc4YKxOJsDdjmCaVrbsTP8F1MBdlg7b4_JYkSHLd9XMKGsiqXiwRGs3URn_NAP49CwB3PJ_HnxyJmOpLwuatvp42CAOujW06F085bpIFwhJXEC_CqMtP4mvJCNJIgPtgikmsJK9TAznKWPnuFeSCPP91raIZRmgCBCFk7h-W1JcWfL107oK9VHmp6qqYptMqkLuCJVrbpYE-glC7oG6KT2KwpE0t4oZ7pUuk2BUSEHHk7m4NgpmUGJBlTzUg3eYaDClotLRVXJRggvQKGg.m3u8
+
+#EXTINF:-1 group-title="Otros" tvg-logo="", Cinemax https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsUEMG5V_Kk3aqETL6D5uSiBGYNJtaC6zfpbrz19l9oaGA_-kta2idCMUM0IPSFQAWfOHAT5O6WemPulTEmA9E2y97rRw2nnZRJwVLYG-hEJ0AtjsxW32v9VJH_UQTooFT_vYr-oHqI2wftxj5b-cimAeTTpddIfx06onK1T3d3CjUAmsDUQJPk5tVKmRMLhZxGQJB_6FGznywWxZlSJhwBsCYqd27ZYGn9Z0DetUXTPOkTx2AkSLKnZa7rN-3WWrL8zM2_fyyIzYNHCgjjnTOH154-6UnC4hc_UWL5VsZbVWuSUCdwk_Oa6185PXavKncUx4Qo8RM9Mmobv_-kyp-X2uPT6m2b8ve3Y-rfsPAFrSUXqzhe_OQ_fRA5xp4Xvq5MC5oZjNIR8BU6UcPyfA1VTejA68FMiuJvH_zBQQ8UzQ8B9ut-QMrfzxrfg4ppFmRhS_LbewiOC5FECA2x9wtees7ddrw2Hl_TmtuvQGjG6GXk1dysHUGP6l0TgMjpigfcX4tDku-FYHz2g4bEaqK3vzheyChEoDAsBBc4YKxOJsDdjmCaVrbsTP8F1MBdlg7b4_JYkSHLd9XMKGsiqXiwRGs3URn_NAP49CwB3PJ_HnxyJmOpLwuatvp42CAOujW06F085bpIFwhJXEC_CqMtP4mvJCNJIgPtgikmsJK9TAznKWPnuFeSCPP91raIZRmgCBCFk7h-W1JcWfL107oK9VHmp6qqYptMqkLuCJVrbpYE-glC7oG6KT2KwpE0t4oZ7pUuk2BUSEHHk7m4NgpmUGJBlTzUg3eYaDClotLRVXJRggvQKGg.m3u8
+
 
 ########## Deportes ##########
 
@@ -63,7 +70,7 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="", Cartoon Network https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp0EqyZoETlwUtj2oeV8IX7JWIKgjY7Te-11vQufHfA0mlYv_-f444dRFiO5dHmXbeS6q8Bqr43HvTS7BGdbwtXI2QUjPTnS0SV8hGnBUSWYMZquotIENO_ybeKfgeVyH0ret1G8Iiv4_81c8p6K6BxatfHFgZ1b83k9M64UdnSBrButXFA_So-OLDKtsgH3gfBiuWHOcSfM0XrUNFI1lN20nNQ83fn5n_gC0kq9Esu3uBy7IHVBRX34sTUXGUjgn9ij1r3RZXC0oIWqdDhDFqQwtCxEyA1koLGY2GBlpd6JuujjrZ_GjuOzBvJ3U4WP8zLdHHiQH0rHsQJVJfiAq_6ZqeDPRdKvKAqnDNzBPSdiMXMRGeRwulOEmoF65h_K2m5hQ5TFAABC5KUWqL0XtimChuZAovQbp7j2LGBXCCVhpamcWDGoohyqnDRwno8rwDNK1wfjzULWseSQCvtj5kzvcYOPRZjq50tWWkjIiA3XElngtfCRZG27E8OYIr2kX0Kq8eyDwLLHVU_ETL1XTVqom_srpnscv1xCgRO_70w6MiuNJgfYCnzDSIAOszEcHYHKZgiVJs6B9mFqUwXFSbfYkpWblRA73dOAa6XRgENQxqLGYLHsnJmJSqMUJ-I_v3QI2yYJXSoSA5cwj3EDigSkxZT_sLa_6UbLie7GNYhUorlTRbxVdN4N080E1VcuSntQbJ2DlgFQswL_68wA6RIQ0nji49N6yzHNICjfh4zrwhoMjXvB0EPSzbBqFtfd.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="", Cartoon Network https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsUEMG5V_Kk3aqETL6D5uSiBGYNJtaC6zfpbrz19l9oaGA_-kta2idCMUM0IPSFQAWfOHAT5O6WemPulTEmA9E2y97rRw2nnZRJwVLYG-hEJ0AtjsxW32v9VJH_UQTooFT_vYr-oHqI2wftxj5b-cimAeTTpddIfx06onK1T3d3CjUAmsDUQJPk5tVKmRMLhZxGQJB_6FGznywWxZlSJhwBsCYqd27ZYGn9Z0DetUXTPOkTx2AkSLKnZa7rN-3WWrL8zM2_fyyIzYNHCgjjnTOH154-6UnC4hc_UWL5VsZbVWuSUCdwk_Oa6185PXavKncUx4Qo8RM9Mmobv_-kyp-X2uPT6m2b8ve3Y-rfsPAFrSUXqzhe_OQ_fRA5xp4Xvq5MC5oZjNIR8BU6UcPyfA1VTejA68FMiuJvH_zBQQ8UzQ8B9ut-QMrfzxrfg4ppFmRhS_LbewiOC5FECA2x9wtees7ddrw2Hl_TmtuvQGjG6GXk1dysHUGP6l0TgMjpigfcX4tDku-FYHz2g4bEaqK3vzheyChEoDAsBBc4YKxOJsDdjmCaVrbsTP8F1MBdlg7b4_JYkSHLd9XMKGsiqXiwRGs3URn_NAP49CwB3PJ_HnxyJmOpLwuatvp42CAOujW06F085bpIFwhJXEC_CqMtP4mvJCNJIgPtgikmsJK9TAznKWPnuFeSCPP91raIZRmgCBCFk7h-W1JcWfL107oK9VHmp6qqYptMqkLuCJVrbpYE-glC7oG6KT2KwpE0t4oZ7pUuk2BUSEHHk7m4NgpmUGJBlTzUg3eYaDClotLRVXJRggvQKGg.m3u8
 
 
 ########## Musica ##########
@@ -76,24 +83,9 @@ https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
-#EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png", Top Latino http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-
 #EXTINF:-1 group-title="Musica" tvg-logo="", Good Life Radio https://www.youtube.com/watch?v=36YnV9STBqc
 
 
-########## Peliculas, documentales y series ##########
-
-#EXTINF:-1 group-title="Otros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg", Energy https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr8xx/spentr8xx/68.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", Discovery channel https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp0EBEM4_Bsfr_ixhk4TMFkDWrhaHeaXxSxuOubGyXM7PMGIgkfbaEqduZMAtedVUTEbr043R5Vd1wz58AUgHx4Fw-I4u-yFiPo14P5xbx1RnM6tnKYWiYKvk5H7UBe7df6SK7xxlxGKJeKFtS0nicBtJvE-S6Nf7HuSPJ3PStzbRqAD7H9a1qqxB1QovaMpPqmQzEpEGJUOy5-QF4DM03qIFKvkqv4GdHYM0eyO6J9PShoBly6q8pRCx1DRXivdx8dLmiMPxl2FUo_XwHeAeQaDqNWHNikPnr-7PBOBC-DTzz8OJjRSoiq1SsM5gV6j0Yxb2CqxgES9m1pCFT1_2KqWicKWjX6Z5tB-s0e2We-A1b5jri8carVCpVKDFE7EUudFXO6EP1fuoJArh0DC3vNa-9CCqN8gg9zVFSr8J2oUZYsmzqN-jiZfbpd6zPKY_KfcyaUJ3BVz0Pq8itOZp03syK3TTij7kFtBlC5XhoAFFGvUSYEeVLk3aGfT8jVrBpCXDciIv1RhYcN422l_kFvhzgbauQPXNexg5LAOJpwN56d290pdxfazC_gRqHPNxCenueMDp-Ov0r_CxRYOEXQQekM-pXTtPrHXDYbgxAGDxVUU8PWMEpGGeobs5uYgVfIJX7WPhnaAx2i4f_nk_Y5hfR93_3PgTZNMWjtXpQCYjVqQQfaHZCa5iAFFmvBIYnFv4S71PYo41DlUn9KSfRIQ_sqmgJ1j0bq6MnyUifWWXRoMMtghamrDWSyEtKFx.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", FOX https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp0EO9FJ2di7sHjl32pA89zNuUUz3L9jh_uRBd_DyfXY3J8lv73cvkbq2MunTA6L6bOccSaHE0b4YlYDdWTB5mzkr9IiZzO5XVsntQfAHohDc7AjD4XLRRNVmD4xncUCbe3aTcc540Wul6pwazd5vTqNrlZiBs6c-G0nL3txo0Ed-YOJUp9ZdhwKx96xZgUtwHBRdiC4W3iXTEwzZfinU-lxyJADuCS4UJQ3_kiZUh_DvrazSNhTYXLYveLjLgbSG3lrzBLsEzUWdpvVE5a-pS4nGk8oDXTZ1V11rhD-fUZ8rcnAXox0Z8UYUvw08EQrDeEyZ-ovE-7Xiys6YwevXEijoafwtpQP3AFYcV5T_W1AQ9wmtAAbojlovB0K930GKHGzSr93mlSHJUHluVa6UhvpYoefORKtcA5cNq9pyYfuB2tICpnGTO9iDYrN0Sg9MjrCYqHlMzFTC47Ml8Gypa8Zte5lXTG6dEBsFSArI78mJyEa0S2MlVft9QA1BKQP4HBIY2vNUEODHtvCdDzS-57p9yC-laDhy12j65lBeRuL3jCBv71qhWcsGsgpw8pTetVVvtsUNR6_A--pJdq3jro11tqfmIuRKXKNZ5BaZXeFfK95udoV3X9_wz3qcveJa5Hlq_rt2NKJ4L48jXb4vYuCBusigmo4-5zz6xzjGJ2CAgKYglnEHPx_Mnbp48onqc095sAmiadG5VFr7czfDBIQDRSUWa4aM65gpDmU7-aiHxoMIm6G2r1IVpyEbc4h.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", Golden http://89.105.194.59:25461/live/4spbb33/4spbb33/8.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", TNT  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpwE_1D-D9jF6omRaXPMy2Mn_n_YEULTA8zXM_9wYLBAGjLHSgDdFKuXYygO1ov25KBjS7r653l8_dyg3Rp3VQBTRqVvVIj1nTa6DG8qWVnxM2CL3GqhHg6B8DLPKYSs6TiGY50NcX4-B5HEcImfeGLVmG7QhnFh996WtW6pD-6BwxpCSt0A1K9qg44y6ZMIWvOwJBZgMNDi2Vx9xt92iB_ww42gwWpJlFvbovxntbNNN3xVrIi1qoUGa1yzRt4w85YHeaT1Wf8E2ew8UHCcc-PYld5qZBjpd8Iu2eIUBo-k_lyPKHVIhxDWKxJe_HztIj5G8-jQHHmXaD1kR2UTOEtiicX0G4fvkp8AZCNHojZZBQo5TumVOCYZBKJCmedxkT76-e-7lguzgs5fk33mbNoC7kNrQDmwyhPYXf5GFRKAwp3kEzg76EP-_vxKvQaKobdjJy7sW1RfDGyY_LH0N8RZPsHqAeWJG3mqFjhnOR3YXtCftS0_pO8SY8mFbKcVnIrSn9NeTj5cqHF_ilyv0Ih-Dvp1qrWNUidxbHwie9IYo4P17jUtmd6iaPaN9elPCsPeLYbyBAdnpC5mLN0hqZ9_Losfw27uIkGfpgsHLJwq0RjHCyoZjl_FRZTIi_Hu5cLMfaMS_X1MUS6egMXKEWXYbjFN6YvOiI12S8aO9vIE9ge9MFULiqcI5vwSqkCzJiTnFPTgirF9SivU0K4PEhDYaqQYo7IeFKhWcBzAX3EyGgybYAU82arIiYP16Io.m3u8
 
 ########## A prueba ##########
 
