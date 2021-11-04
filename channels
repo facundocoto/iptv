@@ -18,10 +18,13 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.ytimg.com/vi/5ql5hNZQzKc/maxresdefault.jpg", La Nacion TV https://www.youtube.com/watch?v=6ilZeMFyNE8&ab_channel=LANACION
 
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Cronica TV https://www.youtube.com/watch?v=hj2gbgKID28&ab_channel=Cr%C3%B3nicaTV
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png", Cronica TV https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+
+
 
 
 ########## Peliculas, documentales y series ##########
