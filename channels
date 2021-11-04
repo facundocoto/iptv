@@ -2,15 +2,7 @@
 
 ########## Noticias ##########
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png", Multivisión http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.diesl.com/wp-content/uploads/2017/01/Cuatro_Diesl.com_.png", Quatro TV https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
@@ -18,73 +10,35 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", Canal Montevideo http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://vignette.wikia.nocookie.net/tvficticia/images/3/3d/Repetidora9DiezTV.png/revision/latest/scale-to-width-down/340?cb=20150330173026&path-prefix=es", Radio TV Neuquen http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8 
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" group-title="Noticias",  24/7 Noticias http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png", Ciudad TV chacohttp://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://lh3.googleusercontent.com/proxy/mjAaIgxa66wZhUST12suiJUHGLsggA2XkjiwGSXBR06_ZhDky54yJV9ajdLHqZlB1k_aenqAG1OFQa0aehHRessPY6yUcVS-lL50lm5sgXn2eV8dl3Vh9suZvQ", Canal 9 Salta http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png", America TV https://www.youtube.com/watch?v=7SmWhIdyc9M&ab_channel=Am%C3%A9ricaTV
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VhOolgs.png",Pinguino TV http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.ytimg.com/vi/5ql5hNZQzKc/maxresdefault.jpg", La Nacion TV https://www.youtube.com/watch?v=6ilZeMFyNE8&ab_channel=LANACION
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" , Canal ONCE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png", MTV http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png", Real Madrid TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" , TN
-https://www.youtube.com/watch?v=wHn1_QVoXGM
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/186.png", America TV https://www.youtube.com/watch?v=li3GN0Hm7w8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://epycaconsultores.com.ar/wp-content/uploads/2018/04/cronicatv_2008.jpg", Crónica https://www.youtube.com/watch?v=K9X2WcIk_Ws
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="", Telefe http://89.105.194.59:25461/live/arg100c/arg100c/123.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="", Canal 13 http://89.105.194.59:25461/live/artvqq12/artvqq12/124.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Cronica TV https://www.youtube.com/watch?v=hj2gbgKID28&ab_channel=Cr%C3%B3nicaTV
 
 
 ########## Peliculas, documentales y series ##########
 
-#EXTINF:-1 group-title="Otros" tvg-logo="https://verlossimpsons.com/themes/default/img/logo-light.png", Los simpsons http://89.105.194.59:25461/live/spentr900/spentr900/68.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", Discovery channel  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cr4EJsz1QVvwhkZjxzgiBJotVOI4GyKyLSm9pl61ya3r5H6wFU8KJCVAJYt1R3E4u-ukCVPh7Or9_fbrbMzf4I6h0_P-NeBJbnQT0N4atvv07JPIoOX6_h-LhsuU8MaYqzSwcfe-_LlMxU8MDPGA-vaEVrfIePEM4_MIZ4ljokvMp7rHyFiLODDBKLNwxNpX5f-zJbf1bTiiVNjp1mHPUwc3_Yz49Du6Zt_0JEybONuH3obMXVbz21XzW5GaUCzizfsob4ZpYNKatDBecXww9OWbnYamRC5Oitxij9umjQhBVfszC-TFZGmsrA_YV6F7xPYeeReHO7i0-bwZh2VNPUOP1UfN207TqLIyGsk4SK3NUIiH6Q83d87o-qnf3ipok6eI87mj__JqD2aFk1I7RlRVYpDJsGOpihrUmiLpjVd4By7P21nCfH5XlafV4szUUgM5t-gm_zvqJRdAuKly3rJ7ZPcTSNn6TXg1gVIc3ACThkVwCahD5irVdz6wW5w7lGKPEeRGhJMBvVMtMBoeZePdH-KT2Pnqt9MDfN5QvBqdzvMqTa4y7cYSqAVIAMaq25gz4A-fBGvR2Jh4Ot200XgN9h9WuoFYSDARBT6OkwIvs1hVpRSIyVCpe98eIBpessfget0d-LwEvIk9JfnkHEKUsKD1C7Q5n9zH49IoFGp1JOSuHuDVeVrv0loWBUwN-pOnpb899SdTSqIL8DhXvdYx7j422WnIeabp92ZARKKCCfWJgSy15t-tnaAipOw4wRIQRjCRulUke0kLJUmUM3q7-hoMOg-BFOa2HbtWti47.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", FOX https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsIEDxCTCRmbHnoFKcc468Vu2rZIbc6a89rkRObqNppIIrTDol3Y0BDMQI9XQ3NoD-IT8dRFmF-zB_IEgBWo_NgwkYyy_55qOPAz9tuD3s-aMSjGLxl0qu1MYdf1N1caPmwVq2bC_o4yglci6mFaUjbaJjs30AWyn8R52-UcZr14ktygiZkV0HFaEk88l9VjAWFgWzcw1UcTTiDCGvF7SbSdt5XOmNfikkNkGvRWpzwLGbonJWWeu8qM1sOBNMUIgD8Pprd30Z-iJv1eKg_z_b2qrAtwRehpG36csXCRPwclO9FgArFRs-XYQOVCV2VKapazGnAs30jt8jVb-CZL25uu2eo4SFkkqWXXFUr4_y1sVrFtkZRwDN8ue54z8x525dHqJhXgrbHr0XX_UfPQSWl6cxT1vTI50dYAw1fbYfmS5RYoUnGDCEexRN4mMSZAckkNUJerQTpwwEg0TEecq7cXOPXZcKsaBcqMcllgZ36nbkh3SbFB6wJiQV_CNaz0By43-CmRyejT1jrpJkqZbReTuNr6aQQ1yDAsRKO9QBxq0nNurvY_lMhOquxJsgUxhrw_Xauz9EjFNbSDDSbajO7l0BiLDfBQf61UN4rMhayQ112xzwQhx-Oh14xWu8mmCjLSLwMvVF6zy2-T8G15Hy_W9OET1_3YJe3dxyFdy5TU3Wsv8EnTRG0aCZJ0p22ydYaoEm7DC3ayoYbXh46NXNTfcKUJ1R0HQ3xZcPZT2NixxeZvegJg9Ten4FXIY2Luo6WHExkSEBkCHnGiVk8knAE_WchjLe4aDJSMd_om_SeRD8pDLA.m3u8
-Request URL: http://89.105.194.59:25461/live/arg100c/arg100c/123.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", Golden http://89.105.194.59:25461/live/4spbb33/4spbb33/8.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", TNT  https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsMEZ1aEXqx2ZtZtz7LwjLHU5BFWSvCYHU9_v7jtvnm73fD9X0sy4ByKHTMXeOkqCtfMELNAGjK7j8Yo6pEcMHmeYxflYporZBiLlmSNikbmPioOTwY0LwgR6nxEOWmwN1DlKMI4EzkMgJmL5ifUlNkiiREEdvPSD10hop56a_iABQov6bcECFlMRcq2lOr-vYrGv60Vj8qjQ89-aU9xW3pZuUCLjGXUMsYAw173Y-EbDElPwGZl7JGKvKwb-viXegP11iEuhOOYpHkGi5HNsw_Nh217b7uSGorNu1FRVuFkwI07cOrqSwhJnodAoT8HApAAyw0Pwg1S9YxxK2c4_u1OBmaF04Zsz0pf8q1NifaWRqrBXsk0nmhGrqfZwqX0m5ltTk9Olwe-ciu7IXbYdGHCGkUxGY4YERog5wya6eEMatJsqYUjoERqxR1H6MUarVBTIwmnRPGvm1PYaY1UGgse8jBr5Ma28FmF6xU2brRjXtgfdibwQQ8RTFf3rNFuoRkT_Cqw_H1UTi78Vfrx-FxGHCrAkvB4CXGejI6qu1rzERPbFKzetvkZn7mdCFiH8IqcBj1L12AynbHYN3pwpT3sR-RrsBR_HtPaHVxHpbGkgOxKfgs37N0m40ussiZmsG8_t7_9GD16Igu4ixoQFKatmeAqCRYBAhqOFfWC0AQeqOhy-lgac7d-U6sqtGjB1dMQ5e8MogSD-IhylvJkbRayoavH1SQiUJ4IQ9-t-88mbZ2o2fklT5dHx3SNn77Fjz6yod3PEhDPLChU5J7V1AnAoENwLGuOGgzH9ytp_A6MjVpfbrE.m3u8
-
-#EXTINF:-1 group-title="Otros" tvg-logo="", Cinemax http://89.105.194.59:25461/hls/3spttb0/3spttb0/5/5ad8171fca91660e23e26c11e163ed17/5_2400.ts
-
-
-########## Deportes ##########
-
-########## Infantiles ##########
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="", Cartoon Network https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsUEMG5V_Kk3aqETL6D5uSiBGYNJtaC6zfpbrz19l9oaGA_-kta2idCMUM0IPSFQAWfOHAT5O6WemPulTEmA9E2y97rRw2nnZRJwVLYG-hEJ0AtjsxW32v9VJH_UQTooFT_vYr-oHqI2wftxj5b-cimAeTTpddIfx06onK1T3d3CjUAmsDUQJPk5tVKmRMLhZxGQJB_6FGznywWxZlSJhwBsCYqd27ZYGn9Z0DetUXTPOkTx2AkSLKnZa7rN-3WWrL8zM2_fyyIzYNHCgjjnTOH154-6UnC4hc_UWL5VsZbVWuSUCdwk_Oa6185PXavKncUx4Qo8RM9Mmobv_-kyp-X2uPT6m2b8ve3Y-rfsPAFrSUXqzhe_OQ_fRA5xp4Xvq5MC5oZjNIR8BU6UcPyfA1VTejA68FMiuJvH_zBQQ8UzQ8B9ut-QMrfzxrfg4ppFmRhS_LbewiOC5FECA2x9wtees7ddrw2Hl_TmtuvQGjG6GXk1dysHUGP6l0TgMjpigfcX4tDku-FYHz2g4bEaqK3vzheyChEoDAsBBc4YKxOJsDdjmCaVrbsTP8F1MBdlg7b4_JYkSHLd9XMKGsiqXiwRGs3URn_NAP49CwB3PJ_HnxyJmOpLwuatvp42CAOujW06F085bpIFwhJXEC_CqMtP4mvJCNJIgPtgikmsJK9TAznKWPnuFeSCPP91raIZRmgCBCFk7h-W1JcWfL107oK9VHmp6qqYptMqkLuCJVrbpYE-glC7oG6KT2KwpE0t4oZ7pUuk2BUSEHHk7m4NgpmUGJBlTzUg3eYaDClotLRVXJRggvQKGg.m3u8
 
 
 ########## Musica ##########
 
 #EXTINF:-1 group-title="Musica" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" , Music Top HD http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="Musica" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS5tZWxvZHlfY2hhbm5lbC5zY18zWEg5NUdfaWNvbl8wX2Q0NjY0YjI3/icon.png?w=170&fakeurl=1", Melody Channel http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
-
-#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
-#EXTINF:-1 group-title="Musica" tvg-logo="", Good Life Radio https://www.youtube.com/watch?v=36YnV9STBqc
+#EXTINF:-1 group-title="Musica" tvg-logo="https://play-lh.googleusercontent.com/W6xVPzhKKTyzvkxdN620TTjtL_q1B2Zf7vHeqzEFH9MUH80G0ewouWaLZsNKjkqyHSo", Good Life Radio https://www.youtube.com/watch?v=36YnV9STBqc
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://radiomitre-la100-prod.cdn.arcpublishing.com/resizer/MffJhrc7S0ySmfN_yMOQrvuRyoA=/1200x0/smart/cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png", Radio la 100 https://www.youtube.com/watch?v=CQr9zDJhDxo&ab_channel=La100
+
+
 
 
 
