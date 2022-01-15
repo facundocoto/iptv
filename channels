@@ -4,13 +4,13 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica https://www.youtube.com/watch?v=W8HX4mygRIc&ab_channel=Televisi%C3%B3nP%C3%BAblica
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica https://www.youtube.com/watch?v=Pez5ihzWaqk&ab_channel=Televisi%C3%B3nP%C3%BAblica
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png" group-title="Noticias",  24/7 Noticias http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_24-7-canal-de-noticias_m.png" group-title="Noticias",  24/7 Noticias https://www.youtube.com/watch?v=ujksVlR9i8w&ab_channel=NoticierosTelevisa
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://www.newslinereport.com/online/nota_tn-se-renueva.jpg" , TN https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png", America TV https://www.youtube.com/watch?v=7SmWhIdyc9M&ab_channel=Am%C3%A9ricaTV
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png", America TV https://www.youtube.com/watch?v=zcWXboTnous&ab_channel=Am%C3%A9ricaTV
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.ytimg.com/vi/5ql5hNZQzKc/maxresdefault.jpg", La Nacion TV https://www.youtube.com/watch?v=6ilZeMFyNE8&ab_channel=LANACION
 
@@ -18,17 +18,22 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1489491828_b2628000_sleng.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.5900.tv/wp-content/uploads/2019/05/cronica.jpg", Cronica TV https://www.youtube.com/watch?v=hj2gbgKID28&ab_channel=Cr%C3%B3nicaTV
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.5900.tv/wp-content/uploads/2019/05/cronica.jpg", Cronica TV https://www.youtube.com/watch?v=InSydaLSSlw&ab_channel=Cr%C3%B3nicaTV
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png", Canal 13 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://elintransigente.com/wp-content/uploads/2020/02/logo-de-C5N.jpg", C5N https://www.youtube.com/watch?v=RmvgK_GWQo0&ab_channel=C5N
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe https://www.youtube.com/watch?v=IjecEZFXaxY&ab_channel=telefeSalta
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe https://www.youtube.com/watch?v=CX4eKazs4rE&ab_channel=telefeSalta
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png", Canal 9 https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b1200000.m3u8
 
+#EXTINF:-1 group-title="Noticias" tvg-logo="", DW Español https://www.youtube.com/watch?v=bKpGAHgpYoU&ab_channel=DWEspa%C3%B1ol
+
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://yt3.ggpht.com/Rfz9oX7D60nJQ4gP4N9aO_HiXy7MFqWLTWt4rh1UN9Pqyp8appQcpGXs3LtVfLZgb5PA_59baA=s900-c-k-c0x00ffffff-no-rj", DeporTV https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2015580337.m3u8
+
+
+
 
 #EXTINF:-1 group-title="24HS" tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/d/db/Simpsons-logo-450x293.jpg/revision/latest?cb=20120609203425&path-prefix=es", Los simpsons https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1298594335.m3u8
 
