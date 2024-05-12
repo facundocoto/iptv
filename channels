@@ -1,6 +1,6 @@
 ########## Estables ##########
 
-########## Noticias ##########
+########## Noticias / Generales ##########
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 
@@ -18,6 +18,7 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png", Canal 13 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://cdn.m3u.cl/logo/1359_Encuentro.png", Encuentro | AR https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe https://www.youtube.com/watch?v=F8QUp_d_Je4&ab_channel=TelefeNoticias
 
@@ -27,18 +28,26 @@
 
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://production.listennotes.com/podcasts/ip-noticias-informaci%C3%B3n-period%C3%ADstica-fAEWTbl5VZv-RHiqu3yPad6.1400x1400.jpg", IP Noticias https://www.youtube.com/watch?v=N4EY8kpCPkc&ab_channel=IPNoticias
 
+#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://cdn.m3u.cl/logo/208_CINE_AR.png", CINE.AR | AR https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="24HS" tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/d/db/Simpsons-logo-450x293.jpg/revision/latest?cb=20120609203425&path-prefix=es", Los simpsons https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1298594335.m3u8
+
+#EXTINF:-1 tvg-id="227" tvg-name="Canal 13 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.jpg", Canal 13 La Rioja | AR https://stream.arcast.host:8443/mp/mp/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p) https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 ########## Deportes ##########
 
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://yt3.ggpht.com/Rfz9oX7D60nJQ4gP4N9aO_HiXy7MFqWLTWt4rh1UN9Pqyp8appQcpGXs3LtVfLZgb5PA_59baA=s900-c-k-c0x00ffffff-no-rj", DeporTV https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2015580337.m3u8
 
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png", DEPORTV | AR https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7] http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 ########## Entretenimiento ##########
-
-
-#EXTINF:-1 group-title="24HS" tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/d/db/Simpsons-logo-450x293.jpg/revision/latest?cb=20120609203425&path-prefix=es", Los simpsons https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1298594335.m3u8
-
 
 
 ########## Musica ##########
