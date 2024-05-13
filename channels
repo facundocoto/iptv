@@ -53,7 +53,7 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1298594335.m3u8
 #EXTINF:-1 tvg-id="227" group-title="Estables" tvg-name="Canal 13 La Rioja" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-13-la-rioja.png", Canal 13 La Rioja | AR 
 https://stream.arcast.host:8443/mp/mp/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" group-title="Estables" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Estable",13Max Televisión (1080p) 
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" group-title="Estables" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Estables", 13Max Televisión (1080p) 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1413" group-title="Estables" tvg-name="Diti TV" tvg-logo="https://cdn.m3u.cl/logo/1413_Diti_TV.png", Diti TV | AR 
@@ -77,6 +77,8 @@ http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 #EXTINF:-1 group-title="Estables" tvg-logo="https://play-lh.googleusercontent.com/W6xVPzhKKTyzvkxdN620TTjtL_q1B2Zf7vHeqzEFH9MUH80G0ewouWaLZsNKjkqyHSo", Good Life Radio 
 https://www.youtube.com/watch?v=36YnV9STBqc
 
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Estables", La Nacion
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
@@ -90,10 +92,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2
 #EXTINF:-1 group-title="Estables", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVCine.us" tvg-logo="https://i.imgur.com/wvPcO63.png" group-title="Estables",Pluto TV Cine (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=
 
+#EXTINF:-1 tvg-id="PlutoTVCineEstelarSpain.es" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Estables",Pluto TV Cine Estelar (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
 
-
-
-
-
-########## A prueba ##########
+#EXTINF:-1 tvg-id="48Hours.us" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="Estables",48 Hours (Pluto TV) (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
