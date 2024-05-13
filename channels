@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=zcWXboTnous&ab_channel=Am%C3%A9ricaTV
 #EXTINF:-1  group-title="Estables", C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 group-title="Estables", TN AR
+#EXTINF:-1 group-title="Estables" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 group-title="Estables" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png", A24 
@@ -23,7 +23,7 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Estables" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD 
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Estables" tvg-logo="https://www.5900.tv/wp-content/uploads/2019/05/cronica.jpg", Cronica TV 
+#EXTINF:-1 group-title="Estables" tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/cronica.jpg", Cronica TV 
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 #EXTINF:-1 group-title="Estables" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png", Canal 13 
@@ -32,16 +32,13 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Estables" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe 
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=796275211&_cdn_timestamp=1683980672&_cdn_token=bbea422a5549c9fcde1f70a9e3fd07336ae644b8
 
-#EXTINF:-1  group-title="Estables", telefe alternativo
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
 #EXTINF:-1 group-title="Estables" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png", Canal 9 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://cdn.m3u.cl/logo/1359_Encuentro.png", Encuentro | AR 
+#EXTINF:-1 tvg-id="1359" group-title="Estables" tvg-name="Encuentro" tvg-logo="https://cdn.m3u.cl/logo/1359_Encuentro.png", Encuentro | AR 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Estables" tvg-logo="", DW Español 
+#EXTINF:-1 group-title="Estables" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9DDW3U4MkbUetvxRj-9AZIYFn5jSqupKrr7F1GB-8g&s", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="Estables" tvg-logo="https://production.listennotes.com/podcasts/ip-noticias-informaci%C3%B3n-period%C3%ADstica-fAEWTbl5VZv-RHiqu3yPad6.1400x1400.jpg", IP Noticias 
@@ -53,10 +50,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM
 #EXTINF:-1 group-title="Estables"  tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/d/db/Simpsons-logo-450x293.jpg/revision/latest?cb=20120609203425&path-prefix=es", Los simpsons 
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1298594335.m3u8
 
-#EXTINF:-1 tvg-id="227" group-title="Estables" tvg-name="Canal 13 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.jpg", Canal 13 La Rioja | AR 
+#EXTINF:-1 tvg-id="227" group-title="Estables" tvg-name="Canal 13 La Rioja" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-13-la-rioja.png", Canal 13 La Rioja | AR 
 https://stream.arcast.host:8443/mp/mp/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" group-title="Estables" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p) 
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" group-title="Estables" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Estable",13Max Televisión (1080p) 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1413" group-title="Estables" tvg-name="Diti TV" tvg-logo="https://cdn.m3u.cl/logo/1413_Diti_TV.png", Diti TV | AR 
@@ -65,19 +62,16 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Estables" tvg-logo="https://yt3.ggpht.com/Rfz9oX7D60nJQ4gP4N9aO_HiXy7MFqWLTWt4rh1UN9Pqyp8appQcpGXs3LtVfLZgb5PA_59baA=s900-c-k-c0x00ffffff-no-rj", DeporTV 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2015580337.m3u8
 
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" group-title="Estables" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png", DEPORTV | AR 
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Estables", eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Estables", Claro Sports 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="Estables" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/07d10-musictop.png" , Music Top HD 
+#EXTINF:-1 group-title="Estables" tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" , Music Top HD 
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="Estables" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM 
+#EXTINF:-1 group-title="Estables" tvg-logo="https://play-lh.googleusercontent.com/W-JNl2xHoC33KuetxEGHDGFvquwNknqbfE6ZwBfMDL9VS6YjqhtTb8v4oX3HlVB75eI=w240-h480-rw", La 90 FM 
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
 #EXTINF:-1 group-title="Estables" tvg-logo="https://play-lh.googleusercontent.com/W6xVPzhKKTyzvkxdN620TTjtL_q1B2Zf7vHeqzEFH9MUH80G0ewouWaLZsNKjkqyHSo", Good Life Radio 
@@ -90,15 +84,12 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 group-title="Estables", Cine AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 
-#EXTINF:-1 group-title="Estables", MTV Biggest Pop
+#EXTINF:-1 group-title="Estables" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/thumbnail.jpg", MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-
 
 #EXTINF:-1 group-title="Estables", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-1 group-title="Estables", IP TV
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 
 
