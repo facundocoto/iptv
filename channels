@@ -1,8 +1,5 @@
-########## Estables ##########
-
-########## Noticias / Generales ##########
-#EXTINF:-1 group-title="Estables" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Pública (TVP) (1080p) [Not 24/7]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 group-title="Estables" tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png", America TV 
 https://www.youtube.com/watch?v=zcWXboTnous&ab_channel=Am%C3%A9ricaTV
@@ -34,7 +31,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Estables" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9DDW3U4MkbUetvxRj-9AZIYFn5jSqupKrr7F1GB-8g&s", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="Estables" tvg-logo="https://production.listennotes.com/podcasts/ip-noticias-informaci%C3%B3n-period%C3%ADstica-fAEWTbl5VZv-RHiqu3yPad6.1400x1400.jpg", IP Noticias 
+#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias (1080p)
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-id="208" group-title="Estables" tvg-name="CINE.AR" tvg-logo="https://cdn.m3u.cl/logo/208_CINE_AR.png", CINE.AR | AR 
@@ -58,8 +55,9 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Estables", Claro Sports 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="Estables" tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" , Music Top HD 
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" ,CM El Canal de la Música (720p)
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
+
 
 #EXTINF:-1 group-title="Estables" tvg-logo="https://play-lh.googleusercontent.com/W-JNl2xHoC33KuetxEGHDGFvquwNknqbfE6ZwBfMDL9VS6YjqhtTb8v4oX3HlVB75eI=w240-h480-rw", La 90 FM 
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
